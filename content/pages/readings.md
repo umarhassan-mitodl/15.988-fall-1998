@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains information about readings for the course. Includes
   information on the courses textbooks, road maps, and other readings.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

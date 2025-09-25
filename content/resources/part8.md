@@ -4,6 +4,8 @@ description: ''
 file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/c64cddf61df3c4f681a456d47aac134f_part8.pdf
 file_size: 79343
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
