@@ -5,6 +5,8 @@ description: Reading assignment with beginner modeling exercises to teach the re
 file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/c14686381688f6677e9b8bbbce13249f_modeling.pdf
 file_size: 309503
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

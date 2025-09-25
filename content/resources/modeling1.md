@@ -13,6 +13,8 @@ description: Reading assignment. This paper is the first in a series of papers d
 file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/3601d1fd4ac1a55b6e3f7eb26b7b083a_modeling1.pdf
 file_size: 247326
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
