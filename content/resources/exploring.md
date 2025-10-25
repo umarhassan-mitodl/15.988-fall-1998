@@ -4,8 +4,6 @@ description: Reading assignment on exploring s-shaped growth.
 file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/9ff8f09cd17e29b0fa91885f82165353_exploring.pdf
 file_size: 372736
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

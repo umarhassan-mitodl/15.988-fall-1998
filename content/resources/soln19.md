@@ -4,8 +4,6 @@ description: Assignment solutions.
 file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/d0413f840bbc76876f11ecc34576b584_soln19.pdf
 file_size: 108359
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

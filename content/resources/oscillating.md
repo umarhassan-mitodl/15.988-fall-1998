@@ -4,8 +4,6 @@ description: Reading assignment on generic structures in oscillating systems.
 file: /courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/3ef1c7e7ff555b4b840a8fb9d02529fc_oscillating.pdf
 file_size: 171877
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
